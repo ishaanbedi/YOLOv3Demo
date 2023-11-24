@@ -9,7 +9,7 @@ This project can be used to detect objects in images using both the YOLOv3 model
 The project is not bundled with any of the YOLOv3 models. You can download the models from the [Apple Machine Learning Models](https://developer.apple.com/machine-learning/models/) page and add them to the project by dragging and dropping them into the project navigator. 
 
 By default, the project is configured to use the YOLOv3 model.
-To use the YOLOv3 Tiny model, update the name over [here](https://github.com/ishaanbedi/YOLOv3Demo/blob/main/YOLOv3Demo/ContentView.swift#L18).
+To use the YOLOv3 Tiny model, update the class name over [here](https://github.com/ishaanbedi/YOLOv3Demo/blob/main/YOLOv3Demo/ContentView.swift#L18) (after adding the model to the project).
 
 
 
